@@ -1,8 +1,5 @@
 *.VC.db
 
-# Visual Studio 2015 user specific files
-.vs/
-
 # Compiled Object files
 *.slo
 *.lo
@@ -39,7 +36,6 @@
 *.suo
 *.opensdf
 *.sdf
-*.VC.opendb
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -62,3 +58,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Starter Content
+Content/StarterContent
